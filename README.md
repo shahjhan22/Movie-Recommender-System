@@ -5,6 +5,10 @@ A content-based movie recommender system built with Python that suggests movies 
 ## 📜 Project Overview
 This project aims to deliver personalized movie recommendations by analyzing the content of movies (such as plot descriptions, genres, and cast details). By converting text-based features into numerical representations, the system efficiently calculates similarity scores to find and recommend similar movies.
 
+https://github.com/user-attachments/assets/6678f027-3a49-4f11-8920-b675804ac54b
+
+
+
 ### Key Features
 - **Content-Based Filtering**: Recommends movies by analyzing descriptions, genres, and actors related to the user-selected movie.
 - **Cosine Similarity**: Uses vector-based similarity measurement to identify and recommend the top 5 similar movies.
